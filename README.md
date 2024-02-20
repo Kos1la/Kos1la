@@ -2,7 +2,7 @@
 
 
 
-<h2>About Me <img align="right" alt="Profile Hits" src="https://github.com/Kos1la.com/ghpvc/?username=cheesits456&style=flat-square"></h2>
+<h2>About Me <img align="right" alt="Profile Hits" src="https://github.com/Kos1la"></h2>
 
 <p align="justify">I am a NodeJS developer with 14 years of coding experience.</p>
 
