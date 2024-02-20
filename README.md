@@ -2,9 +2,9 @@
 
 
 
-<h2>About Me <img align="right" alt="Profile Hits" src="https://github.com/Kos1la"></h2>
+<h2>About Me </h2>
 
-<p align="justify">I am a NodeJS developer with 14 years of coding experience.</p>
+<p align="justify">I just like making things that people will use.</p>
 
 <p align="justify">I started in 2009 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2010/2011, I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a version of BASIC so I could program games for my 3DS using a DSi app called Petit Computer. In 2015 I found NodeJS and started using it to create some basic bots for various chat platforms.</p>
 
