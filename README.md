@@ -20,3 +20,5 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Express" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Express" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" style="padding-right:10px;" />
