@@ -4,7 +4,7 @@ Hi 👋 My name is Andrey
 Web developer
 -------------
 
-I write code, solve problems and play football
+I'm passionate about programming, constantly learning new technologies, and enjoying a good game of football in my free time. 
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [kos1la1998@gmail.com](mailto:kos1la1998@gmail.com)
