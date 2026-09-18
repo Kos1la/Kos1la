@@ -1,7 +1,5 @@
 Hi 👋 My name is Andrey
 =======================
-
-Web developer
 -------------
 
 I'm passionate about programming, constantly learning new technologies, and enjoying a good game of football in my free time. 
